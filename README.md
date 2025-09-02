@@ -58,17 +58,15 @@ The exercises are divided into different **levels of complexity**, from the most
    python3 Ex001.py
    cd python
 
-   ---
-
 ## 🚀 Who Is This For?
 
 This repository is for:
 
-Beginners who want to learn Python step by step
+- Beginners who want to learn Python step by step
 
-Developers who want to review the basics before moving on to advanced topics
+- Developers who want to review the basics before moving on to advanced topics
 
-Anyone looking for small and practical examples to practice coding
+- Anyone looking for small and practical examples to practice coding
 
 ---
 
