@@ -50,5 +50,10 @@ The exercises are divided into different **levels of complexity**, from the most
    ```bash
    git clone https://github.com/your-username/python-practicing.git
    cd python-practicing
-
-
+2. Clone the repository:  
+   ```bash
+   cd python
+3. Clone the repository:  
+   ```bash
+   python3 Ex001.py
+   cd python
