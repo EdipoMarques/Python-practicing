@@ -37,10 +37,10 @@ The exercises are divided into different **levels of complexity**, from the most
 
 | Level | Description | Examples |
 |-------|-------------|----------|
-| 🟢 Beginner | Basic syntax, input/output, variables | Printing messages, reading user input |
-| 🟡 Intermediate | Control flow, functions, data structures | Loops, conditionals, lists, dictionaries |
-| 🔵 Advanced | Modules, OOP, file handling | Classes, imports, exceptions |
-| 🔴 Expert | More complex concepts and challenges | Decorators, generators, advanced problem-solving |
+| Beginner | Basic syntax, input/output, variables | Printing messages, reading user input |
+| Intermediate | Control flow, functions, data structures | Loops, conditionals, lists, dictionaries |
+| Advanced | Modules, OOP, file handling | Classes, imports, exceptions |
+| Expert | More complex concepts and challenges | Decorators, generators, advanced problem-solving |
 
 ---
 
