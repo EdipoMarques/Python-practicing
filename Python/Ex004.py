@@ -1,7 +1,7 @@
 """
 
-------- Python Exercise #004 -----------
-Reading User Input and Showing Its Type .
+------- Python Exercise #004 ----------
+Reading User Input and Showing Its Type.
 
 """
 
