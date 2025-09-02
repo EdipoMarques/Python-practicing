@@ -58,8 +58,6 @@ The exercises are divided into different **levels of complexity**, from the most
    python3 Ex001.py
    cd python
 
-   ---
-
 ## 🚀 Who Is This For?
 
 This repository is for:
