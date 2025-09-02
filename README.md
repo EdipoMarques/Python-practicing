@@ -58,7 +58,9 @@ The exercises are divided into different **levels of complexity**, from the most
    python3 Ex001.py
    cd python
 
-🚀 Who Is This For?
+   ---
+
+## 🚀 Who Is This For?
 
 This repository is for:
 
@@ -68,7 +70,9 @@ Developers who want to review the basics before moving on to advanced topics
 
 Anyone looking for small and practical examples to practice coding
 
-💡 Final Note
+---
+
+## 💡 Final Note
 
 This repository is open for everyone 🌍.
 Feel free to:
@@ -81,5 +85,7 @@ Feel free to:
 
 Learning is a continuous journey, and this repository is my way of sharing that journey with others.
 I hope it helps you as much as it helps me! 🚀🐍
+
+---
 
 Happy coding! ✨
