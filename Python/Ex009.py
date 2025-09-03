@@ -1,5 +1,5 @@
 """
-                Python Exercise #009  
+                 Python Exercise #009  
 Reading an Integer and Displaying Its Multiplication Table
 
 """
