@@ -9,5 +9,9 @@
 
 w = float(input("Type here the width of the wall: "))
 h = float(input("Type here the height of the wall: "))
-area = w * (h**2)
+area = w * h
+
+amount_paint = area / 2
+print(f'The area of this wall is {area}')
+print(f"The amount of paint you have tu use to get this taskh done is {amount_paint} litters")
 
