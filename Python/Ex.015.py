@@ -1,0 +1,1 @@
+#Python Exercise #016 – Extracting the Integer Part of a Real Number
