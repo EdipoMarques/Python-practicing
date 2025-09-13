@@ -5,7 +5,7 @@
 #The result is then displayed as the equivalent temperature in Fahrenheit.
 # 
 
-c = float(input("Enter here the temperature i ncelsius: C")) 
+c = float(input("Enter here the temperature in ncelsius: C")) 
 f = (c * 9/5) + 32
 print(f"The temperature of {c}°C is equivalent to {f}°F")
  
