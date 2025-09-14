@@ -1,5 +1,5 @@
 # Python Exercise 001 – Hello, World! 
 
-print("=============")
+print("==============")
 print("Hello, World!")
-print("=============")
+print("==============")
